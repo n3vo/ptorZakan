@@ -1,5 +1,4 @@
 {
-  "homepage": "https://n3vo.github.io/PerekFormReact",
   "name": "completed",
   "version": "0.1.0",
   "private": true,
@@ -41,11 +40,10 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-fileupload": "^1.1.7-alpha.3",
+    "gh-pages": "^3.2.3",
     "morgan": "^1.10.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
