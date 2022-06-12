@@ -5,6 +5,7 @@ import rtlPlugin from 'stylis-plugin-rtl';
 import { prefixer } from 'stylis';
 import { CacheProvider } from '@emotion/react';
 import createCache from '@emotion/cache';
+import FormControl from '@mui/material/FormControl';
 
 const theme = createTheme({
   direction: 'rtl', // Both here and <body dir="rtl">
@@ -15,17 +16,16 @@ const cacheRtl = createCache({
   stylisPlugins: [prefixer, rtlPlugin],
 });
 
-export const Input2 = forwardRef((props, ref) => {
+export const rtlAlign = forwardRef((props, ref) => {
   return (
-    <CacheProvider value={cacheRtl}>
-      <ThemeProvider theme={theme}>
-        <TextField
-        inputRef={ref}
-        fullWidth
-        {...props}
-        />
-      </ThemeProvider>
-    </CacheProvider>
+      <CacheProvider value={cacheRtl}>
+          <ThemeProvider theme={theme}>
+              <div dir="rtl">
+                  <FormControl>
+                      inputRef={ref}
+                  </FormControl>
+              </div>
+          </ThemeProvider>
+      </CacheProvider>
   );
 });
-
