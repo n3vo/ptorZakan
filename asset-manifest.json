@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ptorZakan/static/css/main.00572154.chunk.css",
-    "main.js": "/ptorZakan/static/js/main.a229342c.chunk.js",
-    "main.js.map": "/ptorZakan/static/js/main.a229342c.chunk.js.map",
+    "main.css": "/ptorZakan/static/css/main.94473c77.chunk.css",
+    "main.js": "/ptorZakan/static/js/main.13c979d4.chunk.js",
+    "main.js.map": "/ptorZakan/static/js/main.13c979d4.chunk.js.map",
     "runtime-main.js": "/ptorZakan/static/js/runtime-main.614aa2c1.js",
     "runtime-main.js.map": "/ptorZakan/static/js/runtime-main.614aa2c1.js.map",
-    "static/js/2.5ebec50d.chunk.js": "/ptorZakan/static/js/2.5ebec50d.chunk.js",
-    "static/js/2.5ebec50d.chunk.js.map": "/ptorZakan/static/js/2.5ebec50d.chunk.js.map",
+    "static/js/2.355fe81a.chunk.js": "/ptorZakan/static/js/2.355fe81a.chunk.js",
+    "static/js/2.355fe81a.chunk.js.map": "/ptorZakan/static/js/2.355fe81a.chunk.js.map",
     "index.html": "/ptorZakan/index.html",
-    "precache-manifest.d431183abefa9847a4c2c7642cae8120.js": "/ptorZakan/precache-manifest.d431183abefa9847a4c2c7642cae8120.js",
+    "precache-manifest.c0bc28ce7a80b00303c2ff104936c08b.js": "/ptorZakan/precache-manifest.c0bc28ce7a80b00303c2ff104936c08b.js",
     "service-worker.js": "/ptorZakan/service-worker.js",
-    "static/css/main.00572154.chunk.css.map": "/ptorZakan/static/css/main.00572154.chunk.css.map",
-    "static/js/2.5ebec50d.chunk.js.LICENSE.txt": "/ptorZakan/static/js/2.5ebec50d.chunk.js.LICENSE.txt"
+    "static/css/main.94473c77.chunk.css.map": "/ptorZakan/static/css/main.94473c77.chunk.css.map",
+    "static/js/2.355fe81a.chunk.js.LICENSE.txt": "/ptorZakan/static/js/2.355fe81a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.614aa2c1.js",
-    "static/js/2.5ebec50d.chunk.js",
-    "static/css/main.00572154.chunk.css",
-    "static/js/main.a229342c.chunk.js"
+    "static/js/2.355fe81a.chunk.js",
+    "static/css/main.94473c77.chunk.css",
+    "static/js/main.13c979d4.chunk.js"
   ]
 }
