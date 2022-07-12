@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "354e7c53f078c3c38f82e768bd89a84d",
+    "revision": "1a9dcbabcdf3c167ae526513c2c68bec",
     "url": "/ptorZakan/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ptorZakan/static/css/2.8dca7762.chunk.css"
   },
   {
-    "revision": "3d19fb794c9d9d9aece6",
-    "url": "/ptorZakan/static/css/main.94473c77.chunk.css"
+    "revision": "97e119ac633423430159",
+    "url": "/ptorZakan/static/css/main.9441263b.chunk.css"
   },
   {
     "revision": "b9cdbe4c6408c7a06ee0",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ptorZakan/static/js/2.4d6115e3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3d19fb794c9d9d9aece6",
-    "url": "/ptorZakan/static/js/main.68e629f0.chunk.js"
+    "revision": "97e119ac633423430159",
+    "url": "/ptorZakan/static/js/main.7be0e19f.chunk.js"
   },
   {
     "revision": "7d52e2716efe6839ead4",
